@@ -29,6 +29,7 @@
 # interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
 
 
+
 #-----------------------------------------------------------------------------------------------------------------------
 # GÖREVLER
 
